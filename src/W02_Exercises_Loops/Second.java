@@ -1,12 +1,12 @@
-package W02_Exercises_01;
+package W02_Exercises_Loops;
 
 import java.util.Scanner;
 
-public class Third {
+public class Second {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Hello3");
+        System.out.println("Hello2");
 
     }
 }
