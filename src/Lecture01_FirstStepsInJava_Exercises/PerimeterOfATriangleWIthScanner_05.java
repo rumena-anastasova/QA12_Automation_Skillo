@@ -1,4 +1,4 @@
-package W01_FirstSteps_Exercises;
+package Lecture01_FirstStepsInJava_Exercises;
 
 import java.util.Scanner;
 

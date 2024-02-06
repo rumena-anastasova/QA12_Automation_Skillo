@@ -1,4 +1,4 @@
-package W01_FirstSteps_Exercises;
+package Lecture01_FirstStepsInJava_Exercises;
 
 public class QuadraticEquationWithIfElseCheck_06 {
     public static void main(String[] args) {

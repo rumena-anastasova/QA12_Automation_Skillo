@@ -1,4 +1,4 @@
-package W01_FirstSteps_Exercises;
+package Lecture01_FirstStepsInJava_Exercises;
 
 public class MyName_01 {
     public static void main(String[] args) {
