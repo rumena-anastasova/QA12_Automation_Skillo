@@ -1,4 +1,4 @@
-package Lecture01_FirstStepsInJava_Exercises;
+package Lecture02_FirstStepsInJava_Exercises;
 
 public class ChristmasTree_04 {
     public static void main(String[] args) {
