@@ -1,4 +1,4 @@
-package Lecture02_FirstStepsInJava_Exercises;
+package Lecture_02_FirstStepsInJava_Exercises;
 
 import java.util.Scanner;
 

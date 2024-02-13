@@ -1,4 +1,4 @@
-package Lecture04_Operators_Expression_ConditionalStatements_Loops;
+package Lecture_04_Operators_Expression_ConditionalStatements_Loops;
 
 import java.util.Scanner;
 

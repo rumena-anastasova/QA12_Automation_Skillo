@@ -1,4 +1,4 @@
-package Lecture04_Operators_Expression_ConditionalStatements_Loops;
+package Lecture_04_Operators_Expression_ConditionalStatements_Loops;
 
 public class TheLargestNumber_04 {
     public static void main(String[] args) {

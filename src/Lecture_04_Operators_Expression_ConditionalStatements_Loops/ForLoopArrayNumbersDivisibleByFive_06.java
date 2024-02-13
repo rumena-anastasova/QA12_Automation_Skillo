@@ -1,6 +1,4 @@
-package Lecture04_Operators_Expression_ConditionalStatements_Loops;
-
-import java.util.Scanner;
+package Lecture_04_Operators_Expression_ConditionalStatements_Loops;
 
 public class ForLoopArrayNumbersDivisibleByFive_06 {
     public static void main(String[] args) {
